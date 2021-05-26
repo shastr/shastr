@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shastr
+- 👋 Hi, I’m Victor
 - 👀 I’m interested in coding and playing
 - 🌱 I’m currently learning swift,objective c and c# (partially)
 

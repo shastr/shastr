@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor
 - 👀 I’m interested in coding and playing
-- 🌱 I’m currently learning swift,objective c and c# (partially)
+- 🌱 I’m currently learning swift,objective c and c#
 
 <!---
 shastr/shastr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

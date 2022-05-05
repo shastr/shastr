@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vic
 - 👀 I’m interested in coding and playing
-- 🌱 Unity/ios developer
+- 🌱 Unity ios developer
 
 
 <!---
